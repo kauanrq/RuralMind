@@ -36,7 +36,11 @@ O Rural Mind tem como objetivo desenvolver um sistema completo para gerenciar os
 ### 👨‍💻 Integrantes
 
 -Alexandre Gustavo Weiss
+
 -Everton Nathan Dias De Oliveira
+
 -Douglas Gabriel Sierota
+
 -Kauan Ribeiro Quevedo
+
 -João Pedro Pereira Barpp
